@@ -29,9 +29,9 @@ Utilização de imagens, uso de frameworks como bootstrap para estilização rá
 
 ## Screenshots
 
-![Drop down]("imagens/drop_down.png")
+![Drop down](imagens/drop_down.png)
 
-![Carrosel]("imagens/carrosel_imagens.png")
+![Carrosel](imagens/carrosel_imagens.png)
 
 
 ## Funcionalidades
